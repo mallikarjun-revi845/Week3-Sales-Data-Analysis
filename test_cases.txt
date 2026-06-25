@@ -1,0 +1,57 @@
+TEST CASE 1
+
+Load Dataset
+
+Expected Result:
+Dataset loads successfully.
+
+Status:
+PASS
+
+---
+
+TEST CASE 2
+
+Check Missing Values
+
+Expected Result:
+Displays missing values correctly.
+
+Status:
+PASS
+
+---
+
+TEST CASE 3
+
+Remove Duplicate Records
+
+Expected Result:
+Duplicate count displayed.
+
+Status:
+PASS
+
+---
+
+TEST CASE 4
+
+Calculate Metrics
+
+Expected Result:
+Displays Total Revenue, Average Sale, Highest Sale, Lowest Sale and Best Selling Product.
+
+Status:
+PASS
+
+---
+
+TEST CASE 5
+
+Generate Report
+
+Expected Result:
+sales_report.txt created successfully.
+
+Status:
+PASS
